@@ -1,0 +1,6 @@
+---
+applications:
+ - name: WallpaperBrowser
+   random-route: true
+   memory: 128M
+   random-route: true
